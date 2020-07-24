@@ -1,0 +1,25 @@
+CACHE MANIFEST
+
+CACHE:
+./
+./index.html
+./jb.html
+./mira.html
+./netcat.html
+./common/exploit.js
+./common/helpers.js
+./common/malloc.js
+./common/rop.js
+./common/syscalls.js
+./common/syscalls2.js
+./jb/c-code.js
+./mira/c-code.js
+./mira/loader.js
+./mira/payload.js
+
+
+NETWORK:
+*
+
+SETTINGS:
+prefer-online
