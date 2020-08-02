@@ -1,11 +1,12 @@
 CACHE MANIFEST
-# 2020-08-02 22:29:04.594
+# 2020-08-02 22:41:15.134
 
 CACHE:
 ./
 ./index.html
 ./jb.html
 ./mira.html
+./mira_unofficial.html
 ./netcat.html
 ./common/exploit.js
 ./common/helpers.js
