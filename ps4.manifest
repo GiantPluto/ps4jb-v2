@@ -1,4 +1,5 @@
 CACHE MANIFEST
+# 2020-08-02 22:29:04.594
 
 CACHE:
 ./
@@ -16,10 +17,10 @@ CACHE:
 ./mira/c-code.js
 ./mira/loader.js
 ./mira/payload.js
+./mira-unofficial/c-code.js
+./mira-unofficial/loader.js
+./mira-unofficial/payload.js
 
 
 NETWORK:
 *
-
-SETTINGS:
-prefer-online
